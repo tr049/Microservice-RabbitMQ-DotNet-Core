@@ -1,0 +1,14 @@
+MicroservicesRabbitMQ/MicroRabbit.Banking.Api/bin/
+MicroservicesRabbitMQ/MicroRabbit.Banking.Api/obj/
+MicroservicesRabbitMQ/MicroRabbit.Banking.Application/bin/
+MicroservicesRabbitMQ/MicroRabbit.Banking.Application/obj/
+MicroservicesRabbitMQ/MicroRabbit.Banking.Data/bin/
+MicroservicesRabbitMQ/MicroRabbit.Banking.Data/obj/
+MicroservicesRabbitMQ/MicroRabbit.Banking.Domain/bin/
+MicroservicesRabbitMQ/MicroRabbit.Banking.Domain/obj/
+MicroservicesRabbitMQ/MicroRabbit.Domain.Core/obj/
+MicroservicesRabbitMQ/MicroRabbit.Infra.Bus/bin/
+MicroservicesRabbitMQ/MicroRabbit.Infra.Bus/obj/
+MicroservicesRabbitMQ/MicroRabbit.Infra.IOC/bin/
+MicroservicesRabbitMQ/MicroRabbit.Infra.IOC/obj/
+MicroservicesRabbitMQ/MicroRabbit.Domain.Core/bin/
